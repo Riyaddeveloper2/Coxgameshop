@@ -1,0 +1,232 @@
+Uri: https://api.coxgameshop.com/images/images-1683690412433.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1683690412433.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1684352070060.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1684352070060.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1685430992562.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1685430992562.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1685432075397.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1685432075397.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1687378378033.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1687378378033.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1687414740424.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1687414740424.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1688517402816.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1688517402816.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1688519235612.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1688519235612.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1688635133868.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1688635133868.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1689764853398.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1689764853398.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1689842006350.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1689842006350.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1689972025974.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1689972025974.jpg
+Content Type: image/jpeg
+
+Uri: https://api.coxgameshop.com/images/images-1690560420002.jpg
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\images\images-1690560420002.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn1.codashop.com/S/content/fonts/Lato/Lato-Bold.woff
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\S\content\fonts\Lato\Lato-Bold.woff
+Content Type: 
+
+Uri: https://cdn1.codashop.com/S/content/fonts/Lato/Lato-Bold.woff2
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\S\content\fonts\Lato\Lato-Bold.woff2
+Content Type: 
+
+Uri: https://www.coxgameshop.com/
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\index.htm
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/forgot-password
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\forgot-password.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/icon-192x192.png
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\icon-192x192.png
+Content Type: image/png
+
+Uri: https://www.coxgameshop.com/login
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/10
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-4.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/11
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-5.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/12
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-6.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/13
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-7.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/19
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-8.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/5
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-1.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/6
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-2.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/login?redirect_url=/topup/8
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\login-3.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/logo.png
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\logo.png
+Content Type: image/png
+
+Uri: https://www.coxgameshop.com/manifest.json
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.coxgameshop.com/register
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\register.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/10
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\10.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/11
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\11.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/12
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\12.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/13
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\13.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/19
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\19.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/5
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\5.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/6
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\6.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/topup/8
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\topup\8.html
+Content Type: text/html
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/141-dc8d12ce7eee2c9a.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\141-dc8d12ce7eee2c9a.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/455-7169e869d6525766.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\455-7169e869d6525766.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/6728d85a-4d12a1f2fc3faad5.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\6728d85a-4d12a1f2fc3faad5.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/873-2197140f089b1c5f.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\873-2197140f089b1c5f.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/d64684d8-61712f81a0d65af7.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\d64684d8-61712f81a0d65af7.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/framework-91d7f78b5b4003c8.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\framework-91d7f78b5b4003c8.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/main-8acdf038c9c76025.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\main-8acdf038c9c76025.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/forgot-password-37c24a3310f6162f.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\forgot-password-37c24a3310f6162f.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/index-39035d530f103ed3.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\index-39035d530f103ed3.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/login-8705c79f0f49746b.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\login-8705c79f0f49746b.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/register-4b671abb450adcd8.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\register-4b671abb450adcd8.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/topup/[id]-7a92b1a223de73b0.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\topup\[id]-7a92b1a223de73b0.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/pages/_app-fdaa87fb19b6c458.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\pages\_app-fdaa87fb19b6c458.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/chunks/webpack-378e68e29c265886.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\chunks\webpack-378e68e29c265886.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/css/1d99d1c210dd93ef.css
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\css\1d99d1c210dd93ef.css
+Content Type: text/css
+
+Uri: https://www.coxgameshop.com/_next/static/o88Mh9zs2iuZmp2QjMpB_/_buildManifest.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\o88Mh9zs2iuZmp2QjMpB_\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/o88Mh9zs2iuZmp2QjMpB_/_middlewareManifest.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\o88Mh9zs2iuZmp2QjMpB_\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://www.coxgameshop.com/_next/static/o88Mh9zs2iuZmp2QjMpB_/_ssgManifest.js
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\_next\static\o88Mh9zs2iuZmp2QjMpB_\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit
+File Name: C:\Users\Riad2009\Downloads\www.coxgameshop.com\recaptcha\api.js
+Content Type: text/javascript
+
